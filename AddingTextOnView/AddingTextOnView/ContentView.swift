@@ -39,7 +39,6 @@ struct ContentView: View {
             .frame(width: UIScreen.main.bounds.width - 40, height: 200, alignment: .trailing)
         
         // if there is single line of text and we want to set its frame and alingmentt then we can set it through frame alignemt too.
-        
     }
 }
 

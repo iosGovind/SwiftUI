@@ -19,7 +19,6 @@ struct Colors: View {
             //.shadow(radius: 15)
            // .shadow(color: .secondary.opacity(0.8), radius: 5, x: 0.0, y: 0.0)
         .shadow(color: .secondary.opacity(0.8), radius: 5, x: -30.0, y: 20.0)
-            
     }
 }
 

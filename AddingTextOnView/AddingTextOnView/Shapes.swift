@@ -25,9 +25,9 @@ struct Shapes: View {
         //            .stroke(.cyan, style: StrokeStyle(lineWidth: 12, lineCap: .square, lineJoin: .miter, dash: []))
         //            .frame(width: 300, height: 200, alignment: .center)
         Rectangle()
-            .trim(from: 0.75, to: 1.0)
+            .trim(from: 0.5, to: 1.0)
         //.fill(.blue)
-            .stroke(.cyan, style: StrokeStyle(lineWidth: 12, lineCap: .square, lineJoin: .miter, dash: []))
+            .stroke(.cyan, style: StrokeStyle(lineWidth: 25, lineCap: .square, dash: [2,5,11]))
             .frame(width: 300, height: 200, alignment: .bottom)
     }
 }

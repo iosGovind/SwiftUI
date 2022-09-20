@@ -11,7 +11,7 @@ import SwiftUI
 struct AddingTextOnViewApp: App {
     var body: some Scene {
         WindowGroup {
-            Frames()
+            Spacers()
         }
     }
 }

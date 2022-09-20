@@ -7,12 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C42C3D128D9F8F800CA69D6 /* Spacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C42C3D028D9F8F800CA69D6 /* Spacers.swift */; };
+		0CC1214328D8AD45006F237A /* PaddingAndSpacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC1214228D8AD45006F237A /* PaddingAndSpacing.swift */; };
 		8408697628C998ED007EF866 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8408697528C998ED007EF866 /* Gradient.swift */; };
 		8408697828C9BC1E007EF866 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8408697728C9BC1E007EF866 /* Icons.swift */; };
 		8408697A28C9BFE7007EF866 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8408697928C9BFE7007EF866 /* Images.swift */; };
 		841E919E28CA2F0000A5DFC6 /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841E919D28CA2F0000A5DFC6 /* Frames.swift */; };
 		841E91A028CA3B6600A5DFC6 /* BackGroundAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841E919F28CA3B6600A5DFC6 /* BackGroundAndOverlays.swift */; };
 		841E91A228CA500400A5DFC6 /* NotificationIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841E91A128CA500400A5DFC6 /* NotificationIcon.swift */; };
+		841E91A428CA562A00A5DFC6 /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841E91A328CA562A00A5DFC6 /* Stacks.swift */; };
 		8426CC9E28C5CF3F00CF5C2B /* AddingTextOnViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8426CC9D28C5CF3F00CF5C2B /* AddingTextOnViewApp.swift */; };
 		8426CCA028C5CF3F00CF5C2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8426CC9F28C5CF3F00CF5C2B /* ContentView.swift */; };
 		8426CCA228C5CF4000CF5C2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8426CCA128C5CF4000CF5C2B /* Assets.xcassets */; };
@@ -22,12 +25,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C42C3D028D9F8F800CA69D6 /* Spacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacers.swift; sourceTree = "<group>"; };
+		0CC1214228D8AD45006F237A /* PaddingAndSpacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacing.swift; sourceTree = "<group>"; };
 		8408697528C998ED007EF866 /* Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient.swift; sourceTree = "<group>"; };
 		8408697728C9BC1E007EF866 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 		8408697928C9BFE7007EF866 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		841E919D28CA2F0000A5DFC6 /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		841E919F28CA3B6600A5DFC6 /* BackGroundAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGroundAndOverlays.swift; sourceTree = "<group>"; };
 		841E91A128CA500400A5DFC6 /* NotificationIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationIcon.swift; sourceTree = "<group>"; };
+		841E91A328CA562A00A5DFC6 /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 		8426CC9A28C5CF3F00CF5C2B /* AddingTextOnView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AddingTextOnView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8426CC9D28C5CF3F00CF5C2B /* AddingTextOnViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingTextOnViewApp.swift; sourceTree = "<group>"; };
 		8426CC9F28C5CF3F00CF5C2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +83,9 @@
 				841E919D28CA2F0000A5DFC6 /* Frames.swift */,
 				841E919F28CA3B6600A5DFC6 /* BackGroundAndOverlays.swift */,
 				841E91A128CA500400A5DFC6 /* NotificationIcon.swift */,
+				841E91A328CA562A00A5DFC6 /* Stacks.swift */,
+				0CC1214228D8AD45006F237A /* PaddingAndSpacing.swift */,
+				0C42C3D028D9F8F800CA69D6 /* Spacers.swift */,
 				8426CCA128C5CF4000CF5C2B /* Assets.xcassets */,
 				8426CCA328C5CF4000CF5C2B /* Preview Content */,
 			);
@@ -163,6 +172,7 @@
 			files = (
 				8408697A28C9BFE7007EF866 /* Images.swift in Sources */,
 				841E91A228CA500400A5DFC6 /* NotificationIcon.swift in Sources */,
+				841E91A428CA562A00A5DFC6 /* Stacks.swift in Sources */,
 				8408697628C998ED007EF866 /* Gradient.swift in Sources */,
 				8426CCA028C5CF3F00CF5C2B /* ContentView.swift in Sources */,
 				8408697828C9BC1E007EF866 /* Icons.swift in Sources */,
@@ -171,6 +181,8 @@
 				8426CC9E28C5CF3F00CF5C2B /* AddingTextOnViewApp.swift in Sources */,
 				84706D3B28C8EFD400A43BAD /* Shapes.swift in Sources */,
 				841E91A028CA3B6600A5DFC6 /* BackGroundAndOverlays.swift in Sources */,
+				0CC1214328D8AD45006F237A /* PaddingAndSpacing.swift in Sources */,
+				0C42C3D128D9F8F800CA69D6 /* Spacers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

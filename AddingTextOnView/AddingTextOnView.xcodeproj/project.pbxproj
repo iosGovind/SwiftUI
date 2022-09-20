@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0C42C3D128D9F8F800CA69D6 /* Spacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C42C3D028D9F8F800CA69D6 /* Spacers.swift */; };
+		0C42C3D328DA210200CA69D6 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C42C3D228DA210200CA69D6 /* Initializer.swift */; };
 		0CC1214328D8AD45006F237A /* PaddingAndSpacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC1214228D8AD45006F237A /* PaddingAndSpacing.swift */; };
 		8408697628C998ED007EF866 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8408697528C998ED007EF866 /* Gradient.swift */; };
 		8408697828C9BC1E007EF866 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8408697728C9BC1E007EF866 /* Icons.swift */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		0C42C3D028D9F8F800CA69D6 /* Spacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacers.swift; sourceTree = "<group>"; };
+		0C42C3D228DA210200CA69D6 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		0CC1214228D8AD45006F237A /* PaddingAndSpacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacing.swift; sourceTree = "<group>"; };
 		8408697528C998ED007EF866 /* Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient.swift; sourceTree = "<group>"; };
 		8408697728C9BC1E007EF866 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				841E91A328CA562A00A5DFC6 /* Stacks.swift */,
 				0CC1214228D8AD45006F237A /* PaddingAndSpacing.swift */,
 				0C42C3D028D9F8F800CA69D6 /* Spacers.swift */,
+				0C42C3D228DA210200CA69D6 /* Initializer.swift */,
 				8426CCA128C5CF4000CF5C2B /* Assets.xcassets */,
 				8426CCA328C5CF4000CF5C2B /* Preview Content */,
 			);
@@ -178,6 +181,7 @@
 				8408697828C9BC1E007EF866 /* Icons.swift in Sources */,
 				84706D3D28C9010300A43BAD /* Colors.swift in Sources */,
 				841E919E28CA2F0000A5DFC6 /* Frames.swift in Sources */,
+				0C42C3D328DA210200CA69D6 /* Initializer.swift in Sources */,
 				8426CC9E28C5CF3F00CF5C2B /* AddingTextOnViewApp.swift in Sources */,
 				84706D3B28C8EFD400A43BAD /* Shapes.swift in Sources */,
 				841E91A028CA3B6600A5DFC6 /* BackGroundAndOverlays.swift in Sources */,

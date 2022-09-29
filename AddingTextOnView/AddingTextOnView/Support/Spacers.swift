@@ -25,7 +25,7 @@ struct Spacers: View {
             Rectangle()
                 .frame(height: 60)
         }
-        //.background(.blue)
+        .background(.blue)
         
         //        HStack(spacing : nil) {
         //            Spacer(minLength: 0)
